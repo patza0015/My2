@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application3</string>
+    <string name="f1_Login">ลงชื่อเข้าใช้</string>
+    <string name="f1_Password">รหัสผ่าน</string>
+    <string name="f1_face">ลงชื่อเข้าใช้เฟสบุ๊ค</string>
+    <string name="f1_username">ชื่อผู้ใช้งาน</string>
+    <string name="f2_addto">เพิ่มในสตรอรี่</string>
+    <string name="f2_Edit">แก้ไขโปรไฟล์</string>
+    <string name="f2_From">จาก</string>
+    <string name="f2_Goseto">เคยศึกษาที่</string>
+    <string name="f2_Livein">อาศัยอยู่ที่</string>
+    <string name="f2_More">เพิ่มเติม</string>
+    <string name="f2_View">ดูในมุมมองของ</string>
+</resources>

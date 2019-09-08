@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application3</string>
+    <string name="f1_face">Login To Facebook</string>
+    <string name="f1_username">Username</string>
+    <string name="f1_Password">Password</string>
+    <string name="f1_Login">LOGIN</string>
+    <string name="f2_addto">Add to Story</string>
+    <string name="f2_View">View As</string>
+    <string name="f2_Edit">Edit Profile</string>
+    <string name="f2_More">More</string>
+    <string name="f2_Goseto">Goes to</string>
+    <string name="f2_Livein">Live in</string>
+    <string name="f2_From">From</string>
+
+</resources>
